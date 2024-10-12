@@ -516,7 +516,7 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 2583	ŋʘ	c				b	clk	prn	vl	vi	none	none	none	none	
 2591	ŋ̥ʘ	c				b	clk	prn	vl	vi	none	none	none	none	
 43	p	c				b	s	s	vl	p	none	none	none	none	
-1986	p̃	c				b	s	s	vl	p	naas	none	none	none	
+1986	p̃	c				b	s	s	vl	p	nas	none	none	none	
 2	pˀ	c				b	s	pog	vl	ge	none	none	none	none	
 104	pʼ	c				b	s	pog	vl	ge	none	none	none	none	
 1272	p̪	c				b	s	s	vl	p	none	none	none	none	
@@ -590,7 +590,7 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 1557	n̪̰	c				d	n	s	c	p	none	none	none	none	
 2851	t̪̰	c				d	s	s	c	p	none	none	none	none	
 2145	t̰s̰	c				d	af	c	c	p	none	none	none	none	
-1559	l̪̤	c				d	a	c	v	p	none	l	none	none	
+1559	l̪̤	c				d	a	c	b	p	none	l	none	none	
 236	d̪	c				d	s	s	vd	p	none	none	none	none	
 1613	ᴅ̪	c				d	t	s	vd	p	none	none	none	none	
 1466	d̪ˤ	c				d	s	pog	vd	ge	none	ph	none	none	
@@ -892,7 +892,7 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 267	j̃	c				p	a	s	vd	p	nas	none	none	none	
 209	ɟ	c				p	s	s	vd	p	none	none	none	none	
 907	jˀ	c				p	a	pog	vd	ge	none	none	none	none	
-994	ʄ	c				p	i	s	vd	gi	none	none	none	none	
+994	ʄ	c				p	s	s	vd	gi	none	none	none	none	
 1570	j̟	c				p	a	s	vd	p	adv	none	none	none	
 66	ʝ	c				p	f	s	vd	p	none	none	none	none	
 1872	jˤ	c				p	a	pog	vd	ge	none	ph	none	none	
@@ -1116,7 +1116,7 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 338	ɽ̤	c				r	t	s	b	p	none	none	none	none	
 1778	ɖ̰	c				r	s	s	c	p	none	none	none	none	
 1800	ʐ̰	c				r	f	s	c	p	none	none	none	none	
-1001	ᶑ	c				r	i	s	vd	gi	none	none	none	none	
+1001	ᶑ	c				r	s	s	vd	gi	none	none	none	none	
 2563	ᶑʼ	c				r	s	pog	vd	ge	none	none	none	none	
 2456	ɗː	c				r	s	s	vd	gi	none	none	long	none	
 1004	ᶑː	c				r	s	s	vd	gi	none	none	long	none	
@@ -1289,8 +1289,8 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 2055	k̰ʷ	c				v	s	s	c	p	none	w	none	none	
 1773	ɰ̰	c				v	a	s	c	p	none	none	none	none	
 372	ŋ̰	c				v	n	s	c	p	none	none	none	none	
-168	k̟ʲʰ	c				v	s	s	poa	p	adv	j	none	none	
-885	kʷʰː	c				v	s	poa	poa	p	none	w	long	none	
+168	k̟ʲʰ	c				v	s	s	vl	p	adv	j	none	none	
+885	kʷʰː	c				v	s	poa	vl	p	none	w	long	none	
 55	w	c				v	a	s	vd	p	none	w	none	none	
 262	w̃	c				v	a	s	vd	p	nas	w	none	none	
 906	wˀ	c				v	a	prg	vd	p	none	w	none	none	
@@ -1358,7 +1358,7 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 2315	ŋːʷ	c				v	n	s	vd	p	none	w	long	none	
 1932	ŋɣ	c				v	f	prn	vd	p	none	none	none	none	
 370	ŋɡ	c				v	s	prn	vd	p	none	none	none	none	
-486	ŋɡ̟	c				v	s	prn	vd		adv	none	none	none	
+486	ŋɡ̟	c				v	s	prn	vd	p	adv	none	none	none	
 2466	ŋɡː	c				v	s	prn	vd	p	none	none	long	none	
 2787	ŋɣᶣ	c				v	f	prn	vd	p	none	none	none	none	
 2792	ŋɣʲ	c				v	f	prn	vd	p	none	j	none	none	
@@ -1460,7 +1460,7 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 975	x͈ː	c				v	f	s	vl	p	dvb	none	long	none	
 882	xh	c				v	f	poa	vl	p	none	none	none	none	
 956	xʲ	c				v	f	s	vl	p	none	j	none	none	
-148	x̟ʲ	c				v	f	s	vl		adv	j	none	none	
+148	x̟ʲ	c				v	f	s	vl	p	adv	j	none	none	
 130	xʷ	c				v	f	s	vl	p	none	w	none	none	
 1790	xʷʼ	c				v	f	pog	vl	ge	none	w	none	none	
 125	x͈ʷ	c				v	f	s	vl	p	dvb	w	none	none	
@@ -1515,7 +1515,7 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 1746	o̤i̤	v	cm c	b f	ru				b	p	none	none	none	none	
 1492	ṳ	v	c	b	r				b	p	none	none	none	none	
 1338	ʊ̤	v	nc	nb	r				b	p	none	none	none	none	
-2489	ṳˑ	v		b	r				b	p	none	none	hl	none	
+2489	ṳˑ	v	c	b	r				b	p	none	none	hl	none	
 1325	ṳː	v	c	b	r				b	p	none	none	long	none	
 2023	ʊ̤ː	v	nc	nb	r				b	p	none	none	long	none	
 1748	ṳa̤	v	c o	b f	ru				b	p	none	none	none	none	
@@ -1533,7 +1533,7 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 1703	ã̰	v	o	f	n				c	p	none	none	none	none	
 2175	ã̰	v	o	f	n				c	p	none	none	none	none	
 2486	a̰ˑ	v	o	f	none				c	p	none	none	hl	none	
-816	a̰ː	v	o	f					c	p	none	none	long	none	
+816	a̰ː	v	o	f	none				c	p	none	none	long	none	
 2633	a̰ʰ	v	o	f	none			poa	c	p	none	none	none	none	
 2422	a̰ḭ	v	o c	f f	none				c	p	none	none	none	none	
 2423	a̰ṵ	v	o c	f b	ur				c	p	none	none	none	none	
@@ -1713,7 +1713,7 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 529	ɔ̃	v	om	b	nr				vd	p	nas	none	none	none	
 2333	ɔ̙	v	om	b	r				vd	p	ret	none	none	none	
 2717	ɔ̝	v	om	b	r				vd	p	rzd	none	none	none	
-351	ɔ̯	v	om	b	r				vd	p	none	none	breve	none	
+351	ɔ̯	v	om	b	r				vd	p	none	none	brev	none	
 890	ɔˑ	v	om	b	none				vd	p	none	none	hl	none	
 1424	ɔˤ	v	om	b	r				vd	p	none	ph	none	none	
 71	ɔː	v	om	b	r				vd	p	none	none	long	none	
@@ -1727,8 +1727,8 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 1418	ɔi	v	om c	b f	ru				vd	p	none	none	none	none	
 2240	ɔɪ	v	om nc	b nf	ru				vd	p	none	none	none	none	
 1579	ɔ̃ĩ	v	om nc	b nf	nru				vd	p	nas	none	none	none	
-1313	ɔo̯	v	om o	b b	r				vd	p	none	none	breve	none	
-1337	ɔõ̯	v	om o	b b	r				vd	p	none	none	breve	none	
+1313	ɔo̯	v	om o	b b	r				vd	p	none	none	brev	none	
+1337	ɔõ̯	v	om o	b b	r				vd	p	none	none	brev	none	
 2165	ɔu	v	om c	b b	r				vd	p	none	none	none	none	
 21	e	v	cm	f	none				vd	p	none	none	none	none	
 427	ə˞	v	m	c	none				vd	p	r	none	none	none	
@@ -1842,7 +1842,7 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 454	ɤ˞	v	cm	b	none				vd	p	none	r	none	none	
 1808	ɤ̞̟̃	v	cm	b	n				vd	p	lwd	none	none	none	
 60	ɤː	v	cm	b	none				vd	p	none	none	long	none	
-769	ɤ̃ː	v	cm	v	n				vd	p	none	none	long	none	
+769	ɤ̃ː	v	cm	b	n				vd	p	none	none	long	none	
 755	ɤ̞ː	v	cm	b	none				vd	p	lwd	none	long	none	
 1743	ɤi	v	cm c	b f	none				vd	p	none	none	none	none	
 25	i	v	c	f	none				vd	p	none	none	none	none	
@@ -2011,7 +2011,7 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 2167	œy	v	om c	f f	r				vd	p	none	none	none	none	
 1964	oi	v	cm c	b f	ru				vd	p	none	none	none	none	
 2404	oɪ	v	cm nc	b nf	ru				vd	p	none	none	none	none	
-2185	oi̯	v	cm c	b f	ru				vd	p	none	none	breve	none	
+2185	oi̯	v	cm c	b f	ru				vd	p	none	none	brev	none	
 1243	o̞i	v	cm c	b f	ru				vd	p	lwd	none	none	none	
 1644	o̞iˤ	v	cm c	b f	ru				vd	p	lwd	ph	none	none	
 1602	õ̞ĩ	v	cm c	b f	nru				vd	p	lwd	none	none	none	
@@ -2022,7 +2022,7 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 519	ou	v	cm c	b b	r				vd	p	none	none	none	none	
 517	oũ	v	cm c	b b	nr				vd	p	none	none	none	none	
 388	ou̙	v	cm c	b b	r				vd	p	none	none	none	none	
-2195	ou̯	v	cm c	b b	r				vd	p	none	none	breve	none	
+2195	ou̯	v	cm c	b b	r				vd	p	none	none	brev	none	
 2030	oʊ	v	cm nc	b nb	r				vd	p	none	none	none	none	
 2388	õũ	v	cm c	b b	nr				vd	p	none	none	none	none	
 406	o̞u	v	cm c	b b	r				vd	p	lwd	none	none	none	
@@ -2050,7 +2050,7 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 520	ʊ̈	v	nc	nb	r				vd	p	c	none	none	none	
 733	ʊ̆	v	nc	nb	r				vd	p	none	none	brev	none	
 324	ʊ̃	v	nc	nb	r				vd	p	none	none	none	none	
-2173	ũˤ	v		b	r				vd	p	none	ph	none	none	
+2173	ũˤ	v	c	b	r				vd	p	none	ph	none	none	
 1367	ʊ̙	v	nc	nb	r				vd	p	ret	none	none	none	
 356	ʊ̯	v	nc	nb	r				vd	p	none	none	brev	none	
 15	uː	v	c	b	r				vd	p	none	none	long	none	
@@ -2084,7 +2084,7 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 624	ui	v	c c	b f	ru				vd	p	none	none	none	none	
 1069	uɪ	v	c nc	b nf	ru				vd	p	none	none	none	none	
 2260	uɨ	v	c c	b c	ru				vd	p	none	none	none	none	
-2202	ui̯	v	c c	b f	ru				vd	p	none	none	breve	none	
+2202	ui̯	v	c c	b f	ru				vd	p	none	none	brev	none	
 1603	ũĩ	v	c c	b f	ru				vd	p	none	none	none	none	
 2275	ʉi	v	c c	c f	ru				vd	p	none	none	none	none	
 1598	ʊi	v	nc c	nb f	ru				vd	p	none	none	none	none	
@@ -2102,15 +2102,15 @@ ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	T
 2259	ʌə	v	om m	b c	none				vd	p	none	none	none	none	
 2075	ʌi	v	om c	b f	none				vd	p	none	none	none	none	
 2196	wa	v	c o	b f	ru				vd	p	none	none	none	none	
-2189	wai̯	v	c o c	b f f	ru				vd	p	none	none	breve	none	
+2189	wai̯	v	c o c	b f f	ru				vd	p	none	none	brev	none	
 2194	we	v	c om	b f	ru				vd	p	none	none	none	none	
-2011	wə	v							vd	p	none	none	none	none	
-2187	wei̯	v	c om c	b f f	ru				vd	p	none	none	breve	none	
+2011	wə	v	c m	b c	ru				vd	p	none	none	none	none	
+2187	wei̯	v	c om c	b f f	ru				vd	p	none	none	brev	none	
 2200	wi	v	c c	b f	ru				vd	p	none	none	none	none	
 2198	wo	v	c cm	b b	r				vd	p	none	none	none	none	
 58	y	v	c	f	r				vd	p	none	none	none	none	
 703	ʏ	v	nc	nf	r				vd	p	none	none	none	none	
-897	y̆	v							vd	p	none	none	brev	none	
+897	y̆	v	c	f	r				vd	p	none	none	brev	none	
 1094	ỹ	v	c	f	r				vd	p	nas	none	none	none	
 1912	yʼ	v	c	f	r			pog	vd	ge	none	glt	none	none	
 2573	ˀy	v	c	f	r			prg	vd	p	none	glt	none	none	
